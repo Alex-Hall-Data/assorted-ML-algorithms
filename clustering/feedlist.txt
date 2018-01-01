@@ -1,0 +1,10 @@
+http://feeds.feedburner.com/37signals/beMH
+https://braintoblueprinttobuild.wordpress.com/feed/
+http://wptavern.com/feed/
+http://www.wpsquared.com/feed/
+http://www.wpeka.com/feed
+http://www.wpexplorer.com/feed/
+http://wplift.com/feed
+http://feeds.wired.com/wired/index
+http://valleywag.gawker.com/rss
+http://www.engadget.com/rss.xml
